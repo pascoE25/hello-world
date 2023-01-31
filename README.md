@@ -2,4 +2,4 @@
 
 My first repository on GitHub
 
-I love :fish:, :dog:, and :lacrosse:.
+I love :fish:, :dog:, :bear:, and :lacrosse:.
